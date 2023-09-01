@@ -42,7 +42,7 @@ List your technical skills, programming languages, and tools that you are profic
 - GitHub: [Your GitHub Profile URL](https://github.com/your-username)
 - LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/sarim-khan-595214130/)
 - Email: sarimk80@gmail.com
-- Portfolio Website: [Your Portfolio Website URL](https://www.your-portfolio-website.com/)
+- Portfolio Website: [Your Portfolio Website URL](https://github.com/sarimk80/portfolio)
 
 Feel free to reach out if you have any questions, want to collaborate on a project, or just want to connect!
 
