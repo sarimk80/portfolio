@@ -28,6 +28,34 @@ Introduce yourself briefly. Share your background, skills, and what interests yo
 
 (Repeat the above structure for additional projects)
 
+## Articles
+
+Here are some of the articles I've written:
+
+- [Article Title 1](link-to-article-1.md)
+  - Brief description of the article.
+
+- [Article Title 2](link-to-article-2.md)
+  - Brief description of the article.
+
+- ...
+
+(Repeat the above structure for additional articles)
+
+## YouTube Videos
+
+Check out my YouTube channel for tech-related content:
+
+- [Video Title 1](link-to-video-1)
+  - Brief description of the video.
+
+- [Video Title 2](link-to-video-2)
+  - Brief description of the video.
+
+- ...
+
+(Repeat the above structure for additional videos)
+
 ## Skills
 
 List your technical skills, programming languages, and tools that you are proficient in.
