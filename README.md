@@ -1,14 +1,30 @@
-# Sarim Mahmood Khan's Portfolio
+# 💼 Sarim Khan's Portfolio
 
-![Your Portfolio Banner](link-to-your-banner-image.jpg)
+Welcome to my personal portfolio! I'm a passionate software developer who loves building useful and beautiful things with code.
 
-Welcome to my GitHub portfolio! This repository showcases some of the projects I've worked on. Feel free to explore and check out my work.
+---
 
-## About Me
+## 🧠 About Me
 
-Introduce yourself briefly. Share your background, skills, and what interests you in the world of technology and development.
+Hi, I'm **Sarim Mahmood kHAN**, a SOFTWARE developer based in kARACHI. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 
-## Projects
+- 🔭 I’m currently working in (Xpence): Expense Management solution for business
+- 🌱 I’m currently learning: SwiftUI, FastApi
+- 💬 Ask me about: JavaScript, Python, Mobile Development, AI
+
+---
+
+## 🛠️ Skills
+
+**Languages:**  
+`Dart` | `Python` | `Swift` | `Kotlin`
+
+**Frameworks & Tools:**  
+`Flutter` | `iOS Deveopment` | `FastAPI`  | `Git` 
+
+---
+
+## 📁 Projects
 
 ### Project 1: [Project Name]
 
@@ -54,16 +70,6 @@ Check out my YouTube channel for tech-related content:
 
 - ...
 
-(Repeat the above structure for additional videos)
-
-## Skills
-
-List your technical skills, programming languages, and tools that you are proficient in.
-
-- Skill 1
-- Skill 2
-- Skill 3
-- ...
 
 ## Contact
 
