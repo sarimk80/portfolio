@@ -28,10 +28,9 @@ Hi, I'm **Sarim Mahmood kHAN**, a SOFTWARE developer based in kARACHI. I enjoy t
 
 ### Project 1: [Xpence ](https://xpence.com)
 
-- **Description:** Briefly describe the project and its purpose.
-- **Technologies Used:** List the key technologies or tools used in this project.
-- **Link:** Provide a link to the project repository or live demo if available.
-- **Screenshot/GIF:** Embed a screenshot or GIF of the project (optional).
+- **Description:** Expense Management solution for business.
+- **Technologies Used:** Flutter.
+- **Link:** [Play store](https://play.google.com/store/apps/datasafety?id=co.xpence.alpha2&hl=en) and [Apple store](https://apps.apple.com/sa/app/xpence/id1499502623).
 
 ### Project 2: [Project Name]
 
