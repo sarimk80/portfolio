@@ -1,84 +1,92 @@
-# 💼 Sarim Khan's Portfolio
+# 📄 Sarim Khan
 
-Welcome to my personal portfolio! I'm a passionate software developer who loves building useful and beautiful things with code.
-
----
-
-## 🧠 About Me
-
-Hi, I'm **Sarim Mahmood kHAN**, a SOFTWARE developer based in kARACHI. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
-
-- 🔭 I’m currently working in (Xpence): Expense Management solution for business
-- 🌱 I’m currently learning: SwiftUI, FastApi
-- 💬 Ask me about: JavaScript, Python, Mobile Development, AI
+📞 [+92 321 3735925](tel:+923213735925)  
+✉️ [sarimk80@gmail.com](mailto:sarimk80@gmail.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/sarim-khan-595214130/) | [GitHub](https://github.com/sarimk80) | [Medium](https://medium.com/@sarimk80) | [YouTube](https://www.youtube.com/channel/UCLCtTsl5ndKcnZ8pexG4CRQ)
 
 ---
 
-## 🛠️ Skills
-
-**Languages:**  
-`Dart` | `Python` | `Swift` | `Kotlin`
-
-**Frameworks & Tools:**  
-`Flutter` | `iOS Deveopment` | `FastAPI`  | `Git` 
+## 🚀 Summary
+Motivated **software developer** with expertise in **Flutter** and experience in **Swift & iOS development**. Strong background in delivering high-quality mobile apps, problem-solving, and team collaboration. Passionate about continuous learning and growth in the software development industry.
 
 ---
 
-## 📁 Projects
+## 💼 Experience
 
-### Project 1: [Xpence ](https://xpence.com)
+### **XPENCE** (Remote, Dubai) — Software Developer  
+*Jun 2020 – Present*  
+[https://xpence.com](https://xpence.com)  
+- Developed user-friendly and visually appealing mobile apps for **Android** and **iOS**.  
+- Collaborated with architects, engineers, and product managers on successful projects.  
+- Built responsive Flutter components with strong UI/UX focus.  
+- Worked in an **agile team** across global time zones.
 
-- **Description:** Expense Management solution for business.
-- **Technologies Used:** Flutter.
-- **Link:** [Play store](https://play.google.com/store/apps/datasafety?id=co.xpence.alpha2&hl=en) and [Apple store](https://apps.apple.com/sa/app/xpence/id1499502623).
+---
 
-### Project 2: [Project Name]
+### **10 Pearls** (Karachi) — Trainee Software Engineer  
+*Dec 2019 – Feb 2020*  
+[https://10pearls.com](https://10pearls.com)  
+- Gained hands-on experience building Flutter applications.  
+- Used **BLoC pattern** for clean state management.  
+- Created responsive UI components and contributed to project deliveries.  
+- Improved communication and collaboration within a diverse global team.  
 
-- **Description:** Briefly describe the project and its purpose.
-- **Technologies Used:** List the key technologies or tools used in this project.
-- **Link:** Provide a link to the project repository or live demo if available.
-- **Screenshot/GIF:** Embed a screenshot or GIF of the project (optional).
+---
 
-### ...
+### **Kumba Africa** (Remote) — Flutter Developer  
+*Sep 2019 – Apr 2020*  
+[http://www.kumbafrica.co](http://www.kumbafrica.co)  
+- Built a cross-platform travel application for Android and iOS.  
+- Focused on adaptive UI for multiple screen sizes.  
+- Collaborated with product managers and senior developers to complete the project.  
 
-(Repeat the above structure for additional projects)
+---
 
-## Articles
+### **TechTree** (Karachi) — Android Developer  
+*Sep 2018 – Feb 2019*  
+[https://techtree.io](https://techtree.io)  
+- Led development of Android applications for clients.  
+- Responsible for product delivery and project management.  
+- Strengthened Android development and team collaboration skills.  
 
-Here are some of the articles I've written:
+---
 
-- [Article Title 1](link-to-article-1.md)
-  - Brief description of the article.
+### **Self-employed** — Developer & Content Creator  
+[https://github.com/sarimk80](https://github.com/sarimk80)  
+- Built multiple **iOS projects** with Swift & SwiftUI.  
+- Created **YouTube tutorials** and **Medium articles** on iOS development.  
+- Shared insights on best practices, coding techniques, and app scalability.  
 
-- [Article Title 2](link-to-article-2.md)
-  - Brief description of the article.
+---
 
-- ...
+## 🎓 Education
 
-(Repeat the above structure for additional articles)
+**Institute of Business Administration (IBA)** — *MS Computer Science*  
+*Aug 2021 – Present*  
+- Advanced programming, algorithms, and computer systems.  
 
-## YouTube Videos
+**Sir Syed University of Engineering and Technology** — *BS Electronic Engineering*  
+*Jan 2014 – Jan 2018*  
+- Focused on circuit design, microprocessors, and IoT (Arduino, Raspberry Pi).  
 
-Check out my YouTube channel for tech-related content:
+---
 
-- [Video Title 1](link-to-video-1)
-  - Brief description of the video.
+## 🛠️ Projects
 
-- [Video Title 2](link-to-video-2)
-  - Brief description of the video.
+- **[StockApp](https://github.com/sarimk80/StockApp)** – Real-time stock tracking app using **Alpha Vantage API** & **Polygon API**. *(SwiftUI, iOS)*  
+- **[Supabase Auth App](https://github.com/sarimk80/Supa_base_app)** – Authentication system using **SwiftUI & Supabase**. *(SwiftUI, iOS)*  
+- **[NutriFit AI](https://github.com/sarimk80/NutriFit-AI)** – AI-powered meal planner using **SwiftUI, HealthKit, FastAPI, Llama3.2**. *(SwiftUI, iOS)*  
 
-- ...
+---
 
+## 🧰 Skills
+- **Languages & Frameworks**: Flutter, SwiftUI, Android, Dart, Swift, Kotlin  
+- **Tools**: Git, FastAPI  
+- **Methodologies**: Agile, Responsive UI/UX, State Management (BLoC)  
 
-## Contact
+---
 
-- GitHub: [Your GitHub Profile URL](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/sarim-khan-595214130/)
-- Email: sarimk80@gmail.com
-- Portfolio Website: [Your Portfolio Website URL](https://github.com/sarimk80/portfolio)
+## 🌍 Languages
+- **English** — B2
 
-Feel free to reach out if you have any questions, want to collaborate on a project, or just want to connect!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+---
