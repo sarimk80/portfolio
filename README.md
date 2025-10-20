@@ -73,6 +73,8 @@ Motivated **software developer** with expertise in **Flutter** and experience in
 
 ## 🛠️ Projects
 
+- **[PSX StockApp](https://github.com/sarimk80/psx_sockets)** – An iOS application for tracking the Pakistan Stock Exchange (PSX) in real time. *(SwiftUI, iOS)*
+- **[StockApp](https://github.com/sarimk80/psx_ai)** – PSX AI Assistance is an intelligent financial analytics app that integrates Pakistan Stock Exchange (PSX) data, company fundamentals, and financial reports with LLM-powered summarization, embedding-based retrieval (RAG), and interactive visualizations.  
 - **[StockApp](https://github.com/sarimk80/StockApp)** – Real-time stock tracking app using **Alpha Vantage API** & **Polygon API**. *(SwiftUI, iOS)*  
 - **[Supabase Auth App](https://github.com/sarimk80/Supa_base_app)** – Authentication system using **SwiftUI & Supabase**. *(SwiftUI, iOS)*  
 - **[NutriFit AI](https://github.com/sarimk80/NutriFit-AI)** – AI-powered meal planner using **SwiftUI, HealthKit, FastAPI, Llama3.2**. *(SwiftUI, iOS)*
