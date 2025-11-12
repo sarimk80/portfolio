@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Summary
-Motivated **software developer** with expertise in **Flutter** and experience in **Swift & iOS development**. Strong background in delivering high-quality mobile apps, problem-solving, and team collaboration. Passionate about continuous learning and growth in the software development industry.
+Versatile software developer specializing in Flutter, SwiftUI, and AI-powered mobile applications. Experienced in building data-driven, cross-platform apps with LLM integration, FastAPI backends, and real-time analytics. Strong background in state management (BLoC), responsive UI/UX, and collaborating in agile global teams to deliver production-ready solutions.
 
 ---
 
