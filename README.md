@@ -78,7 +78,8 @@ Versatile software developer specializing in Flutter, SwiftUI, and AI-powered mo
 - **[StockApp](https://github.com/sarimk80/StockApp)** – Real-time stock tracking app using **Alpha Vantage API** & **Polygon API**. *(SwiftUI, iOS)*  
 - **[Supabase Auth App](https://github.com/sarimk80/Supa_base_app)** – Authentication system using **SwiftUI & Supabase**. *(SwiftUI, iOS)*  
 - **[NutriFit AI](https://github.com/sarimk80/NutriFit-AI)** – AI-powered meal planner using **SwiftUI, HealthKit, FastAPI, Llama3.2**. *(SwiftUI, iOS)*
-- **[RAG](https://github.com/sarimk80/ollama_RAG)** - AI-powered RAG using **Language Model, Embeddings, Document Processing, Vector Storage, Streamlit**  
+- **[RAG](https://github.com/sarimk80/ollama_RAG)** - AI-powered RAG using **Language Model, Embeddings, Document Processing, Vector Storage, Streamlit**
+- **[PSX Android] (https://github.com/sarimk80/Psx)** 
 
 ---
 
